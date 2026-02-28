@@ -1,0 +1,5 @@
+{
+  "name": "Controle de Produtividade",
+  "description": "Uma planilha profissional para registro e acompanhamento de produtividade laboral, com cálculos automáticos de esforço e alcance de metas.",
+  "requestFramePermissions": []
+}
